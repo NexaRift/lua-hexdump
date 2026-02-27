@@ -1,6 +1,6 @@
 # hexdump.lua
 
-![Lua](https://img.shields.io/badge/Lua-5.1%2B-blue?logo=lua) ![LuaJIT](https://img.shields.io/badge/LuaJIT-compatible-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![Lua](https://img.shields.io/badge/Lua-5.1%2B-blue?logo=lua&style=for-the-badge) ![LuaJIT](https://img.shields.io/badge/LuaJIT-compatible-orange?style=for-the-badge) ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 A simple and efficient hexadecimal viewer written in Lua.  
 Displays any file in classic hexdump format with ASCII column.  
