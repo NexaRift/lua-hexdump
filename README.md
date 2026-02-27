@@ -1,4 +1,4 @@
-# hexdump.lua
+# Lua-Hexdump
 
 ![Lua](https://img.shields.io/badge/Lua-5.1%2B-blue?logo=lua&style=for-the-badge) ![LuaJIT](https://img.shields.io/badge/LuaJIT-compatible-orange?style=for-the-badge) ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
