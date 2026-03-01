@@ -70,9 +70,9 @@ hexdump.dump("imagem.png", {
 00000000  89 50 4E 47 0D 0A 1A 0A  00 00 00 0D 49 48 44 52  |.PNG........IHDR|
 00000010  00 00 00 10 00 00 00 10  08 02 00 00 00 90 91 73  |...............s|
 ...
-File    : imagem.png
-Size    : 1.2 KB (1245 bytes)
-Time    : 0.002 s
+Arquivo    : imagem.png
+Tamanho    : 1.2 KB (1245 bytes)
+Tempo    : 0.002 s
 ```
 
 Cada linha exibe:
