@@ -4,9 +4,7 @@
 ![LuaJIT](https://img.shields.io/badge/LuaJIT-compatible-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-Visualizador hexadecimal escrito em Lua.  
-Exibe qualquer arquivo no formato clássico de hexdump com coluna ASCII, otimizado para baixo uso de memória e mínima pressão sobre o garbage collector.  
-Pode ser usado diretamente pelo terminal ou importado como módulo em outros scripts Lua.
+Visualizador hexadecimal escrito em Lua. Exibe qualquer arquivo no formato clássico de hexdump com coluna ASCII, otimizado para baixo uso de memória e mínima pressão sobre o garbage collector. Pode ser usado diretamente pelo terminal ou importado como módulo em outros scripts Lua.
 
 ---
 
@@ -26,7 +24,7 @@ Pode ser usado diretamente pelo terminal ou importado como módulo em outros scr
 
 ### Instalação
 
-Sem dependências externas. Basta ter o arquivo `hexdump.lua` e um interpretador Lua disponível no sistema.
+Sem dependências externas. Simplismente baixe o arquivo `hexdump.lua` e um interpretador Lua disponível no sistema.
 
 ### Uso
 
@@ -134,7 +132,7 @@ hexdump.dump("arquivo.bin", {
 
 ### Installation
 
-No external dependencies. Just have the `hexdump.lua` file and a Lua interpreter available on your system.
+No external dependencies. Simply download the `hexdump.lua` file and a Lua interpreter available on your system.
 
 ### Usage
 
